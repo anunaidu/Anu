@@ -2,7 +2,7 @@ steps:
   # Checking out the repository which is to be actioned
   - uses: actions/checkout@v2
   # Implementing action on repository
-  - uses: anunaidu/Copyright-checker@v1.0.0
+  - uses: anunaidu/websites@v1.0.0
     with: 
       version: 2
       jobs:
