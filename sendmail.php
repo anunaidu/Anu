@@ -13,4 +13,3 @@ echo 'There Was An Error While Sending Mail.';
 } else { 
 echo 'One or More Required Fields Were Missing'; 
 }
-?>
